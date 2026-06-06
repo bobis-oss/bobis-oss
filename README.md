@@ -1,19 +1,17 @@
-<h1> Hi👋, I'm  <a href="https://shenandrei4.github.io">Andrei Shen</a> </h1>
-<h2><a href="https://shenandrei4.github.io">Full Stack Developer</a></h2> 
+<h1> Hi👋, I'm  <a href="https://github.com/bobis-oss">Adrian Bobis</a> </h1>
+<h2><a href="https://shenandrei4.github.io">Full Stack, AI, Blockchain Developer</a></h2> 
 
 -   🔭 I’m currently working on Full Stack Development
--   🌱 I’m currently learning AI and Machine Learning
--   👯 I’m looking to collaborate on Web Development and Blockchain Industry
+-   🌱 I’m currently learning robotics, including Raspberry Pi, SolidWorks, ROS and so on.
+-   👯 I’m looking to collaborate on Web Development, AI and Blockchain Industry
 -   <img alt="Message Me" src="./assets/message.gif" width="20"> Ask me about Computer Science
 -   ❤️ I am passionate about Software Engineering
 -   💻 I enjoy learning new things & sharing knowledge
 ##   <img alt="Loading Gif" src="./assets/contact-us.gif" width="40" style="margin-bottom:-14px"/>   Connect with me! <br>
 [![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://shenadrei4.github.io/)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shen-andrei)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/shenandrei4)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/shenandrei4)
 [![Telegram Badge](https://img.shields.io/badge/Telegram-1DA1F0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shenandrei4)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shenandrei4@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmaii&logoColor=white)](mailto:shenandrei4@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/shenandrei4/)
 [![Hacker Rank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shenandrei4)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22627404/andrei-shen)
