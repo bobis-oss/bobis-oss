@@ -76,15 +76,12 @@
 <p align="left"> <a href="https://git-scm.com" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> </a><a href="https://vscode.coom" target="_blank"> <img src="https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> </a><a href="https://linux.org" target="_blank"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black " alt="Linux" /> </a> <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge" alt="Kubernetes Badge"> <a href="https://docker.com" target="_blank"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white " alt="Docker" /> </a><a href="https://figma.com" target="_blank"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> </a><a href="https://" target="_blank"> <img src="https://img.shields.io/badge/Terminal-%234D4D4D.svg?style=for-the-badge&labelColor=black&logo=windows-terminal&logoColor=white" alt="" /> </a><a href="https://" target="_blank"> <img src=" " alt="" /> </a><a href="https://" target="_blank"> <img src=" " alt="" /> </a> <img src="https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=fff&style=for-the-badge" alt="Jira Badge"> <img src="https://img.shields.io/badge/Asana-F06A6A?logo=asana&logoColor=fff&style=for-the-badge" alt="Asana Badge">              
 </p>
  
-## <img src="./assets/chart.gif" width="45" style="margin-bottom:-8px"> Andrei Shen's Github Stats 
+## <img src="./assets/chart.gif" width="45" style="margin-bottom:-8px"> Adrian Bobis's Github Stats 
 <p align="center">
-<a href="https://github.com/shenandrei4/github-readme-streak-stats">
-<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Andrei Shen's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=shenandrei4&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+<a href="https://github.com/bobis-oss/github-readme-streak-stats">
+<img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Adrian Bobis's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=bobis-oss&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
 
 </p>
-
-| [![Andrei Shen's Github stats](https://github-readme-stats.vercel.app/api?username=shenandrei4&theme=react&show_icons=true&hide=prs&hide_border=true&bg_color=0D1117)](https://github.com/shenandrei4) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shenandrei4&layout=compact&theme=react&color=5BCDEC&hide_border=true&bg_color=0D1117)](https://github.com/shenandrei4) |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 <br/>
 <b>📓 Notes:</b> <i>Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
@@ -94,5 +91,5 @@
 
 
 <hr/>
-<p align="center">Thanks for going through My Portfolio. All rights reserved by Andrei Shen @2024</p>
+<p align="center">Thanks for going through My Portfolio. All rights reserved by Adrian Bobis @2024</p>
 <hr/>
