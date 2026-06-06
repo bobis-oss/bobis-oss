@@ -62,7 +62,7 @@
  </table>
 
 ## <img src="./assets/blockchain.gif" width="45" style="margin-bottom:-14px"> AI :
-![python Badge](https://img.shields.io/badge/Blockchain.com-121D33?logo=python&logoColor=fff&style=for-the-badge)
+![python Badge](https://img.shields.io/badge/python-121D33?logo=python&logoColor=fff&style=for-the-badge)
 
 ## <img src="./assets/blockchain.gif" width="45" style="margin-bottom:-14px"> Blockchain :
 ![Blockchain.com Badge](https://img.shields.io/badge/Python-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge) ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge) ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge) ![Bitcoin Badge](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge) ![Analogue Badge](https://img.shields.io/badge/Analogue-1A1A1A?logo=analogue&logoColor=fff&style=for-the-badge) 
