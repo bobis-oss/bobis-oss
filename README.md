@@ -20,7 +20,7 @@
 <p align="left">
   <a href="https://javascript.info" target="_blank"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="javascript"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc" alt="typescript" /> </a>
-  <a href="https://www.learnpython.org/" target="_blank"> <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" alt="python" /> </a>
+  <a href="https://www.learnpython.org/" target="_blank"> img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge"> </a>
   <a href="https://www.learncs.org/" target="_blank"> <img src="https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&labelColor=black&logo=csharp&logoColor=007acc" alt="csharp" /> </a>
   <a href="https://isocpp.org/" target="_blank"> <img src="https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=cplusplus&logoColor=007acc" alt="cplusplus" /> </a>
  </p>
@@ -61,8 +61,11 @@
  </tr>
  </table>
 
+## <img src="./assets/blockchain.gif" width="45" style="margin-bottom:-14px"> AI :
+
+
 ## <img src="./assets/blockchain.gif" width="45" style="margin-bottom:-14px"> Blockchain :
-![Blockchain.com Badge](https://img.shields.io/badge/Blockchain.com-121D33?logo=blockchaindotcom&logoColor=fff&style=for-the-badge) ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge) ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge) ![Bitcoin Badge](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge) ![Analogue Badge](https://img.shields.io/badge/Analogue-1A1A1A?logo=analogue&logoColor=fff&style=for-the-badge) 
+![Blockchain.com Badge](https://img.shields.io/badge/Blockchain.com-121D33?logo=python&logoColor=fff&style=for-the-badge) ![Rust Badge](https://img.shields.io/badge/Rust-000?logo=rust&logoColor=fff&style=for-the-badge) ![Go Badge](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=fff&style=for-the-badge) ![Bitcoin Badge](https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=fff&style=for-the-badge) ![Analogue Badge](https://img.shields.io/badge/Analogue-1A1A1A?logo=analogue&logoColor=fff&style=for-the-badge) 
 ![Solidity Badge](https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=fff&style=for-the-badge) ![Ethereum Badge](https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=fff&style=for-the-badge) ![Web3.js Badge](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge) ![Ethers Badge](https://img.shields.io/badge/Ethers-2535A0?logo=ethers&logoColor=fff&style=for-the-badge) ![Coinbase Badge](https://img.shields.io/badge/Coinbase-0052FF?logo=coinbase&logoColor=fff&style=for-the-badge) ![CoinMarketCap Badge](https://img.shields.io/badge/CoinMarketCap-17181B?logo=coinmarketcap&logoColor=fff&style=for-the-badge)
 
 ## <img src="./assets/code.gif" width="30" style="margin-bottom:-8px">  Software and Tools:
