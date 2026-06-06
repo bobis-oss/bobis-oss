@@ -8,13 +8,13 @@
 -   ❤️ I am passionate about Software Engineering
 -   💻 I enjoy learning new things & sharing knowledge
 ##   <img alt="Loading Gif" src="./assets/contact-us.gif" width="40" style="margin-bottom:-14px"/>   Connect with me! <br>
-[![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://shenadrei4.github.io/)
+[![Website Badge](https://img.shields.io/badge/WebSite-000000?style=for-the-badge&logo=WebStorm&logoColor=white)](https://github.com/bobis-oss)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shen-andrei)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-1DA1F0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shenandrei4)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmaii&logoColor=white)](mailto:shenandrei4@gmail.com)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-1DA1F0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@webbeeteam)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shenandrei4@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/shenandrei4/)
 [![Hacker Rank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/shenandrei4)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22627404/andrei-shen)
+//[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22627404/andrei-shen)
 <br>
 
 ## <img alt="Developer Gif" src="./assets/developer.gif" width="40" style="margin-bottom:-8px"/> Programming Languages:
